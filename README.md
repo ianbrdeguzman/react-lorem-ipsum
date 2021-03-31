@@ -7,4 +7,4 @@ Check it out [here!]()
 -   HTML5
 -   CSS3
 -   Reactjs
--   [BaconIpsum](https://baconipsum.com/json-api/)
+-   [BaconIpsum API](https://baconipsum.com/json-api/)
