@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-lorem-ipsum/static/css/main.78fcba82.chunk.css",
+    "main.js": "/react-lorem-ipsum/static/js/main.8196f51b.chunk.js",
+    "main.js.map": "/react-lorem-ipsum/static/js/main.8196f51b.chunk.js.map",
+    "runtime-main.js": "/react-lorem-ipsum/static/js/runtime-main.6a73fd66.js",
+    "runtime-main.js.map": "/react-lorem-ipsum/static/js/runtime-main.6a73fd66.js.map",
+    "static/js/2.f3ae64c1.chunk.js": "/react-lorem-ipsum/static/js/2.f3ae64c1.chunk.js",
+    "static/js/2.f3ae64c1.chunk.js.map": "/react-lorem-ipsum/static/js/2.f3ae64c1.chunk.js.map",
+    "index.html": "/react-lorem-ipsum/index.html",
+    "static/css/main.78fcba82.chunk.css.map": "/react-lorem-ipsum/static/css/main.78fcba82.chunk.css.map",
+    "static/js/2.f3ae64c1.chunk.js.LICENSE.txt": "/react-lorem-ipsum/static/js/2.f3ae64c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a73fd66.js",
+    "static/js/2.f3ae64c1.chunk.js",
+    "static/css/main.78fcba82.chunk.css",
+    "static/js/main.8196f51b.chunk.js"
+  ]
+}
